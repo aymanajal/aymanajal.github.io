@@ -2,6 +2,8 @@
 layout: post
 title: "在Windows下创建符号链接(Symbolic Link)"
 categories: windows使用技巧
+tags: windows使用技巧
+sidebar: []
 ---
 
 
@@ -10,6 +12,12 @@ categories: windows使用技巧
 Windows有个最大的弊端，C盘爆了之后，怎么办？
 
 之前我都重装了事，但是最近发现一个秘密武器：**symlinks**。
+
+
+
+
+
+
 
 ## 什么是符号链接(Symbolic Link)?
 
