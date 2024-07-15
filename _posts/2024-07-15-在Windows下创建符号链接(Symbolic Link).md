@@ -5,7 +5,7 @@ categories: windows使用技巧
 ---
 
 
-## 学会这个技巧之后，那些年我双手插兜，不知谁是对手
+**学会这个技巧之后，那些年我双手插兜，不知谁是对手**
 
 Windows有个最大的弊端，C盘爆了之后，怎么办？
 
@@ -52,7 +52,7 @@ Windows有个最大的弊端，C盘爆了之后，怎么办？
 mklink /D "C:\Program Files\YourSoftware" "D:\app\YourSoftware"
 ```
 
-### 示例操作
+## 示例操作
 
 假设你要移动的软件是`YourSoftware`，具体操作如下：
 
@@ -68,7 +68,7 @@ mklink /D "C:\Program Files\YourSoftware" "D:\app\YourSoftware"
 mklink /D "C:\Program Files\YourSoftware" "D:\app\YourSoftware"
 ```
 
-### 注意事项
+## 注意事项
 
 1. **权限要求**：创建符号链接需要管理员权限，因此确保以管理员身份运行命令提示符。
 2. **确认路径**：确保文件夹路径正确，并且目标文件夹已经成功移动到新位置。
