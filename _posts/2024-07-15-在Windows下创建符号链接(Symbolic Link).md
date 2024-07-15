@@ -2,8 +2,9 @@
 layout: post
 title: "在Windows下创建符号链接(Symbolic Link)"
 categories: windows使用技巧
-tags: windows使用技巧
+tags: [windows使用技巧]
 sidebar: []
+
 ---
 
 
