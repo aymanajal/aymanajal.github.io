@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: yimin_Blog
+title: Yimin_Blog
 email: windsdirection@outlook.com
 author: GitHub User
 
@@ -162,9 +162,9 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+#     heading: "Yimin_Blog"
+#     subheading: "离开世界之前 一切都是过程"
+#     banner: "https://matters.town/@windsdirecti"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
