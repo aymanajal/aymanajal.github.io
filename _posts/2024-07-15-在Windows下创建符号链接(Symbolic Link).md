@@ -4,7 +4,7 @@ title: "在Windows下创建符号链接(Symbolic Link)"
 categories: windows使用技巧
 ---
 
-```markdown
+
 ## 学会这个技巧之后，那些年我双手插兜，不知谁是对手
 
 Windows有个最大的弊端，C盘爆了之后，怎么办？
@@ -75,4 +75,3 @@ mklink /D "C:\Program Files\YourSoftware" "D:\app\YourSoftware"
 3. **测试链接**：创建符号链接后，尝试运行软件，确保其正常工作。
 
 通过这些步骤，你可以将软件安装路径从C盘移动到D盘，并使用符号链接确保系统和应用程序能够正确找到并使用这些文件。
-```
